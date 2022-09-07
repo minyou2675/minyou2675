@@ -1,4 +1,7 @@
-### Hi there 👋
+### WELCOME TO COMPUTER SCIENCE NEWBIE FROM BIOTECHNOLOGY 👋
+
+
+
 
 <!--
 **minyou2675/minyou2675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
