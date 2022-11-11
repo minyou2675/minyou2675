@@ -1,5 +1,5 @@
 ### WELCOME TO COMPUTER SCIENCE NEWBIE FROM BIOTECHNOLOGY 
-[![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)👋
+[![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)👋
 
 
 
