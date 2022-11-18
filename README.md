@@ -1,8 +1,9 @@
 ### WELCOME TO COMPUTER SCIENCE NEWBIE FROM BIOTECHNOLOGY 
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)👋
-## 이름(name) : 김유민
-# 학교(school) : 상명대학교
-# 전공(major) : Biotech & Computer.sci 
+## Biography
+</br>이름(name) : 김유민
+</br>학교(school) : 상명대학교
+</br> 전공(major) : Biotech & Computer.sci 
 
 
 
