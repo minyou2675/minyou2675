@@ -6,7 +6,9 @@
 </br>학교(school) : 상명대학교
 </br> 전공(major) : Biotech & Computer.sci 
 </br> 소개(Intro) : 그냥 하고 싶은 건 모두 할 수 있는 사람이 되고 싶은 20대
-</br> 관심사(Interest) : 클라우드 프로그래밍 , AI, 동물
+</br> 관심사(Interest) : 프로그래밍 ! 
+</br> MBTI : INFJ
+</br> 특) 동물 좋아하고 쓸데없이 감성충만... 
 
 
 
