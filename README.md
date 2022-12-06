@@ -5,7 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675/)
 ## Biography
 이름(name) : 김유민
-</br>학교(school) : 상명대학교 및 대만 국립중앙대학교 1학기 교환학생
+</br>학교(school) : 상명대학교 본교생 및 대만 국립중앙대학교 교환학생
 </br> 전공(major) : Biotech & Computer.sci 
 </br> 소개(Intro) : 그냥 하고 싶은 건 모두 할 수 있는 사람이 되고 싶은 20대
 </br> 관심사(Interest) : 프로그래밍 ! 
