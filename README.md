@@ -1,9 +1,9 @@
 ### WELCOME ! I'm Computer Science Newbie From Biotechnology 👋
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)
-
+[![YUMIN'S Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyou2675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 백준Algorithm rank (2022.04~)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyou2675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Biography
 이름(name) : 김유민
 </br>학교(school) : 상명대학교 본교생 및 대만 국립중앙대학교 교환학생
