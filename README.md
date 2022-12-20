@@ -1,3 +1,7 @@
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Github!&fontSize=90" />	
+</div>
+
 ### WELCOME ! I'm Computer Science Newbie From Biotechnology 👋
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)
 [![YUMIN'S Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyou2675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
