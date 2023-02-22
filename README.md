@@ -17,7 +17,8 @@
 </br> 수상내역 : KT와 함께하는 상명 AI 경진대회 최우수상,SW인재페스티벌 소프트웨어중심대학협회의장상(우수상)
 </br> My Notion : https://www.notion.so/s-Home-5dcb407e689741808859d680940b0226
 </br> MBTI : INFJ
-</br> 
+</br> Services : 
+</br> 근처카페(대학생 카페 리뷰 서비스) <a href=https://nearbycafe.store>웹페이지</a>
 
 
 
