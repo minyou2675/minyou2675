@@ -18,7 +18,7 @@
 </br> My Notion : https://www.notion.so/s-Home-5dcb407e689741808859d680940b0226
 </br> MBTI : INFJ
 </br> Services : 
-</br> 근처카페(인간지능을 활용한 대학생 카페 리뷰 사이트 ) NearCafe Serivce <a href=https://nearbycafe.store>nearbycafe.store</a>
+</br> 근처카페(인간지능을 활용한 대학생 카페 리뷰 사이트) NearCafe Serivce <a href=https://nearbycafe.store>nearbycafe.store</a>
 
 
 
