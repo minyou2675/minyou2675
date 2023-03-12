@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>WELCOME ! I'm Computer Science Newbie From Biotechnology 👋</h3>
+	<h1>👋❤WELCOME ! I'm Computer Science Newbie From Biotechnology</h1>
 </div>
 <div align=center>
 	<img width="100%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
@@ -36,8 +36,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+---
 <div align=center>
-	<h3>Biography</h3>
+	<h1>😊Biography</h1>
 	<div>
 이름(name) : 김유민
 </br>학교(school) : 상명대학교 본교생
