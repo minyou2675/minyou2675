@@ -6,12 +6,12 @@
 <div>
 	<img width="80%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
 </div>
-<div>
+<!-- <div>
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)
 [![YUMIN'S Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyou2675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 백준Algorithm rank (2022.04~)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675/)
-</div>
+</div> -->
 
 ## Biography
 이름(name) : 김유민
