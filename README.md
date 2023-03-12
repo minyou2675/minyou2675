@@ -2,9 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Yumin!&fontSize=90" />	
 </div>
 
-### WELCOME ! I'm Computer Science Newbie From Biotechnology 👋
-<div>
-	<img width="80%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
+<div align=center>
+	<h3>WELCOME ! I'm Computer Science Newbie From Biotechnology 👋</h3>
+</div>
+<div align=center>
+	<img width="100%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
 </div>
 <!-- <div>
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,9 +36,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-## Biography
+<div align=center>
+	<h3>Biography</h3>
+	<div>
 이름(name) : 김유민
-</br>학교(school) : 상명대학교 본교생 및 대만 국립중앙대학교 교환학생
+</br>학교(school) : 상명대학교 본교생
 </br> 전공(major) : Biotech & Computer.sci 
 </br> 소개(Intro) : 그냥 하고 싶은 건 모두 할 수 있는 사람이 되고 싶은 20대
 </br> 관심사(Interest) : 프로그래밍 ! 
