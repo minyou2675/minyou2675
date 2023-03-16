@@ -41,12 +41,11 @@
 	<h1>😊Biography</h1>
 	<div>
 <h3>이름(name)</h3> : 김유민
-</br><h3>학교(school)</h3> : 상명대학교 본교생
-</br> <h3>전공(major)</h3> : Biotech & Computer.sci 
-</br> <h3>소개(Intro)</h3> : 그냥 하고 싶은 건 모두 할 수 있는 사람이 되고 싶은 20대
-</br> <h3>관심사(Interest)</h3> : 프로그래밍 ! 
-</br> <h3>My Notion</h3> : https://www.notion.so/s-Home-5dcb407e689741808859d680940b0226
-</br> <h3>MBTI</h3> : INFJ
+</br><h3>학교(school)</h3>  상명대학교 본교생
+</br> <h3>전공(major)</h3>: Biotech & Computer.sci 
+</br> <h3>소개(Intro)</h3>  그냥 하고 싶은 건 모두 할 수 있는 사람이 되고 싶은 20대
+</br> <h3>관심사(Interest)</h3>  프로그래밍 ! 
+</br> <h3>MBTI</h3>  INFJ
 
 
 
