@@ -6,7 +6,7 @@
 	<h1>👋❤WELCOME ! I'm Computer Science Newbie From Biotechnology</h1>
 </div>
 <div align=center>
-	<img width="100%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
+<!--	<img width="100%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
 </div>
 <!-- <div>
 [![YUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyou2675)](https://github.com/anuraghazra/github-readme-stats)
