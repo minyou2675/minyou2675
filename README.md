@@ -14,6 +14,11 @@
 ### 백준Algorithm rank (2022.04~)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675/)
 </div> -->
+<div>
+[![Solved.ac
+kym2675](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+	</div>
+	---
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
