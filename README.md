@@ -5,11 +5,12 @@
 <div align=center>
 	<h1>👋❤WELCOME ! I'm Computer Science Newbie From Biotechnology</h1>
 </div>
-<div align=center>
+<!-- <div align=center>
 	<img width="100%" src="https://user-images.githubusercontent.com/62383521/224533107-b3efaa4d-3a1e-445a-a4a7-be576fa2a4df.png"/img>
-</div>
+</div> -->
 <div>
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675 )
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kym2675)](https://solved.ac/kym2675)
 	</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
