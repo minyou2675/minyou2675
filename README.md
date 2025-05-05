@@ -11,9 +11,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kym2675)](https://solved.ac/kym2675)
 
-<div align=center><h1>📋Portfolio</h1>
-	<h3><a href="https://minyou2675.github.io/portfolio/2023/10/23/Portfolio.html">포트폴리오 사이트</a></h3>
-</div>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -45,13 +42,6 @@
 상명대학교 
 </br> <h3>💻전공(major)</h3> 
 Biotech & Computer.sci 
-</br> <h3>소개(Intro)</h3>  
-컴퓨터과학과 생명공학을 복수전공하고 있으며, 지금은 동아리나 대회 등 대외활동에 참여하면서 꾸준히 개발 공부를 하고 있습니다. 
-</br> <h3>관심사(Interest)</h3> 
-현재 가장 큰 관심사는 웹 개발 및 IT 인프라 분야입니다.
-
-
-
 
 
 <!--
